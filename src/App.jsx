@@ -1,5 +1,10 @@
 const App = () => {
-  return <div>3d Dev Portfolio</div>;
+  return (
+    <div>
+      3d Dev Portfolio
+      <p>placeholder text</p>
+    </div>
+  );
 };
 
 export default App;
