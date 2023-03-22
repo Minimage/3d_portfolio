@@ -1,5 +1,5 @@
 {
-  "name": "3d_portfolio",
+  "name": "3d-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -25,5 +25,7 @@
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
     "vite": "^4.2.0"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
